@@ -1,4 +1,4 @@
-# TODO: add the patterns
+ # TODO: add the patterns
 .venv/
 __pycache__/
 logs/
